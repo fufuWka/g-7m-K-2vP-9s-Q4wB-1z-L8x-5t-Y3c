@@ -1,4 +1,4 @@
-# profile-title: Fu-vpn LTE v2.0
+# profile-title: Fu-vpn Main v2.0
 # subscription-userinfo: upload=0; download=1; total=1099511627776; expire=1893456000
 # profile-update-interval: 1024
 # Date/Time: 2026-06-07 | 16:20 
