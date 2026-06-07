@@ -1,0 +1,9 @@
+# profile-title: Fu-vpn LTE v2.0
+# subscription-userinfo: upload=274877906944; download=274877906944; total=1099511627776; expire=1893456000
+# profile-update-interval: 1024
+# Date/Time: 2026-06-07 | 16:20 
+
+vless://736a4703-d1e4-49c6-bc60-643efc87c4f9@37.18.14.188:785?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=Bzg2JVMCfWzb6tiQsluLrZtc1AetrWBF_9w8AiYDa30&sid=fd7d43c72d53f688&type=tcp#🇪🇺 Автовыбор LTE 
+vless://736a4703-d1e4-49c6-bc60-643efc87c4f9@37.18.14.188:222?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=chrome&pbk=Bzg2JVMCfWzb6tiQsluLrZtc1AetrWBF_9w8AiYDa30&sid=fd7d43c72d53f688&type=tcp#🇷🇺 Россия LTE -> 🇩🇪 
+vless://736a4703-d1e4-49c6-bc60-643efc87c4f9@37.18.14.188:888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru&fp=chrome&pbk=Bzg2JVMCfWzb6tiQsluLrZtc1AetrWBF_9w8AiYDa30&sid=fd7d43c72d53f688&type=tcp#🇷🇺 Россия LTE -> 🇫🇮 
+vless://736a4703-d1e4-49c6-bc60-643efc87c4f9@37.18.14.188:865?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.max.ru.ru&fp=chrome&pbk=Bzg2JVMCfWzb6tiQsluLrZtc1AetrWBF_9w8AiYDa30&sid=fd7d43c72d53f688&type=tcp#🇷🇺 Россия LTE 
